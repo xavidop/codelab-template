@@ -6,7 +6,10 @@ This repository provides a template for creating and deploying codelabs using th
 
 The main content of the codelab is located in the `codelab.md` file. You can edit this file to customize the codelab according to your needs.
 
-The codelab content is written in CodeLab Markdown format. You can find more information about the CodeLab Markdown format. Here you have an example of a simple [codelab](https://github.com/googlecodelabs/tools/blob/main/sample/codelab.md).
+The codelab content is written in CodeLab Markdown format. You can find more information about the CodeLab Markdown format. Here you have an example of a simple [codelab](https://github.com/googlecodelabs/tools/blob/main/sample/codelab.md) whre you can check the format.
+
+The codelab that is located in the `content` folder is a simple example of a codelab that you can use as a starting point:
+![image](img/example.png)
 
 ## Generating the Codelab
 
