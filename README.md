@@ -2,6 +2,15 @@
 
 This repository provides a template for creating and deploying codelabs using the `claat` tool.
 
+## Requirements
+
+To use this template, you need to have the following tools installed:
+1. [Go](https://golang.org/dl/)
+
+To setup go you can follow the instructions [here](https://golang.org/doc/install).
+
+Make sure you add the `GOPATH` to your `PATH` as specified [here](https://go.dev/wiki/SettingGOPATH).
+
 ## Content
 
 The main content of the codelab is located in the `codelab.md` file. You can edit this file to customize the codelab according to your needs.
